@@ -17,7 +17,7 @@
   "d1_databases": [
     {
       "binding": "DB",
-      "database_id": "blog-notes",
+      "database_id": "8fad9653-6e14-481c-8410-713b76701f22",
       "migrations_dir": "migrations",
       "remote": true
     }
@@ -32,12 +32,12 @@
   "kv_namespaces": [
     {
       "binding": "KV",
-      "id": "blog-notes",
+      "id": "24d02aca5c624cf4b894566adbecde82",
       "remote": true
     },
     {
       "binding": "OAUTH_KV",
-      "id": "blog-notes",
+      "id": "24d02aca5c624cf4b894566adbecde82",
       "remote": true
     }
   ],
